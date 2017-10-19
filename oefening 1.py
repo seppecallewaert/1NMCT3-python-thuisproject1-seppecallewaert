@@ -30,3 +30,4 @@ def tel_hoofdletters(string):
             count += 1
     return count
 print("Het aantal hoofletters in deze zin is: {0}".format(tel_hoofdletters(zin)))
+
